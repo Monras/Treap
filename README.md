@@ -48,3 +48,4 @@ _(Version numbers adhere to [semantic versioning](https://semver.org/))_
 *By Måns Rasmussen*
 
 This work is licensed under a [CC BY 3.0 license](https://creativecommons.org/licenses/by/3.0/)
+Last eddited: 20 May 2018
